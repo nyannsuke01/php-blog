@@ -73,7 +73,7 @@ function makeLink($value) {
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>ノマドカフェ掲示板</title>
+	<title>カフェ掲示板</title>
 
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -81,7 +81,7 @@ function makeLink($value) {
 <body>
 <div id="wrap">
   <div id="head">
-    <h1>ノマドカフェ掲示板</h1>
+    <h1>カフェ掲示板</h1>
   </div>
   <div id="content">
   	<div style="text-align: right"><a href="logout.php">ログアウト</a></div>
